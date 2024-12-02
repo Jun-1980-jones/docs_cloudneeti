@@ -1,4 +1,5 @@
-
+saas/api-key-generation.md-key-generation.mdcouscous clearcouscous deployfind . -type d -exec chmod 770 {} \; && find . -type f -exec chmod 660 {} \;770cd /mnt/c/<path_to_docs_cloudneeti>
+couscous preview660
 
 **Prerequisites**:
 - Check whether your Office 365 admin has turned on multi-factor authentication for your account.
